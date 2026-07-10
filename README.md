@@ -1,4 +1,5 @@
 # 💰 Smart Expense & Budget Tracker
+🔗 **Live Demo:** [expense-tracker-seven-blue-54.vercel.app](https://expense-tracker-seven-blue-54.vercel.app)
 
 A full-stack MERN application to track daily expenses, set category-wise monthly budgets, and visualize spending patterns through interactive charts.
 
